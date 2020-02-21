@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+.name{
+    font-size: 45px;
+    font-weight: 700;
+    color:#fa1e76;
+}
+#header-description{
+    padding-left: 10%;
+    padding-top: 7%;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 500;
+    background-image: linear-gradient(#fc1c76, #fa418b);
+    border-radius: 10px;
+}
+.contant{
+    width: 40%;
+    float: left;
+}
+.contant>img{
+width: 100%;
+}
+section{
+    height: 740px;
+    
+}
+.header-bg{
+    background-image: url("images/header-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+
+}
+#biography{
+    padding-left: 8%;
+    padding-top: 10%;
+    
+}
+#biography-img{
+    padding-top: 3%;
+    width: 32%;
+    padding-left: 10%;
+}
+.biography-bg{
+    background-image: url("images/biography-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+    
+}
+.work-heading{
+    text-align: center;
+    padding-bottom: 4%;
+}
+.work-img{
+    width: 25%;
+    float: left;
+    padding-left: 3%;
+    
+}
+.work-img:first-child{
+    padding-left: 10%;
+}
+.latest-work-bg{
+    background-image: url("images/latest-work-bg.png");
+    background-size: 100%;
+    background-position: right;
+    background-repeat: no-repeat;   
+}
+#work-section{
+    height: 500px;
+}
+.footer-contant{
+    text-align: center;
+}
+footer>h2{
+    padding-bottom: 5%;
+}
+footer>p{
+    padding-bottom: 3%;
+}
+.contact{
+    text-align: center;
+    color: white;
+    padding: 5px 5px 20px;
+    background-color:  #fc1c76;
+    margin-right: 450px;
+    margin-left: 450px;
+    border-radius: 10px;
+    
+}
+.credit{
+    text-align: center;
+    font-size: 10px;
+}
+.footer-bg{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
